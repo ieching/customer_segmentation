@@ -1,5 +1,5 @@
-# Customer Segmentation using K-means
+# Product and Customer Segmentation using K-means
 
-I first clustered products into categories based on their description, and then clustered customers based on product categories, total price, and country.
+I first used natural language processing to clean product descriptions and cluster them into categories. I then used these product categories as well as total transaction price and country to cluster customers into segments.
 
 Data: https://www.kaggle.com/carrie1/ecommerce-data
